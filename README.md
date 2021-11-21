@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Razvan, also known as kemoboy. 
+
+I'm a 24 years old romanian developer, that loves to work with React and WordPress. :D 
+
+My portfolio: https://layouth.ro/ 
+
+✨ Cheers! ✨
+
 <!--
 **kemoboy/kemoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
